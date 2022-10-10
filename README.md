@@ -74,3 +74,17 @@ You have to download the mongodb for the database.
 For this project the URI of mongodb is mongodb://localhost:27017.
 
 The "npm run both" will run both servers localhost:3000 and localhost:5000 on which mongodb api are working. 
+
+This will be the llogin page for Admin as well as for Employee (Role-based Login)
+![image](https://user-images.githubusercontent.com/69450294/194884808-851ef575-85df-41db-abbd-8cc25e305683.png)
+
+Adding Employee Details through Admin Login -
+![image](https://user-images.githubusercontent.com/69450294/194885259-878a0c52-7199-4704-b023-8a1ebb44807b.png)
+
+There are so many features such as -
+Track of work with the help of Pie chart and Bar Graph.
+
+As well as Employee can add multiple task from their respective login
+
+This is one of my great project.
+
