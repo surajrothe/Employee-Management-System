@@ -1,0 +1,11 @@
+.add-container {
+    margin: auto;
+    margin-bottom: 40px;
+    width: 75%;
+    /* border: 3px solid black; */
+    border-radius: 15px;
+    padding: 44px;
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 1);
+    background-color: #ffffff;
+
+  }
